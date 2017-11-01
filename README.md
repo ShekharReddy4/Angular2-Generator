@@ -8,7 +8,7 @@ You can view and download the source code from
 
 
 <big><pre>
-[https://github.com/KishoreIthadi/Angular2-Generator](https://github.com/KishoreIthadi/Angular2-Generator:target="_blank")
+<a href="https://github.com/KishoreIthadi/Angular2-Generator" target="_blank"> Link </a>
 </pre></big>
 
 
