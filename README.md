@@ -6,9 +6,9 @@ This project generates **angular2 project templates** with various configuration
 
 You can view and download the source code from
 
-```link
-https://github.com/KishoreIthadi/Angular2-Generator
-```
+
+[```https://github.com/KishoreIthadi/Angular2-Generator```](https://github.com/KishoreIthadi/Angular2-Generator)
+
 
 ### Features
 
@@ -106,7 +106,5 @@ Note: The gulp setup is generated based on the **basicsetup/basicsetuprouter** t
 
 For more advanced angular2 gulp build refer the below link
 
-```link
-https://github.com/KishoreIthadi/Angular2Gulp
-```
+[```https://github.com/KishoreIthadi/Angular2Gulp```](https://github.com/KishoreIthadi/Angular2Gulp)
 
