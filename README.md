@@ -7,7 +7,9 @@ This project generates **angular2 project templates** with various configuration
 You can view and download the source code from
 
 
+<big><pre>
 [```https://github.com/KishoreIthadi/Angular2-Generator```](https://github.com/KishoreIthadi/Angular2-Generator)
+</pre></big>
 
 
 ### Features
